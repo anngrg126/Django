@@ -1,3 +1,14 @@
 *djangoPy3Env/
 main/main/wsgi.py
 main/manage.py
+db.sqlite3
+*main/__pycache__/
+*apps/first_app/__pycache__/
+apps/__init__.py
+apps/__pycache__/
+apps/first_app/__init__.py
+apps/first_app/__pycache__/
+apps/first_app/admin.py
+apps/first_app/apps.py
+apps/first_app/migrations/
+main/__pycache__/
