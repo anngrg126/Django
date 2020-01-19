@@ -9,4 +9,5 @@ def new(request):
     response = "placeholder to display a new form to create a new blog"
     return HttpResponse(response)
 
-    
+def create(request):
+    return redirect('/blogs')
